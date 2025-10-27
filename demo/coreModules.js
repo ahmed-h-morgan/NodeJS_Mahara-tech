@@ -1,4 +1,4 @@
-const EventEmitter = require("event")
+const EventEmitter = require("events")
 const myEventObj = new EventEmitter()
 // myEventObj.on("eventName", function)    - add a listener to event eventName using on and a function to be executed when this event fired which is 
 //      called event handler

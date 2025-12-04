@@ -7,3 +7,6 @@ global objects withen any modules
  --> __filename
 
 **/
+
+global.appcode = "123-Node-app"
+console.log(module)

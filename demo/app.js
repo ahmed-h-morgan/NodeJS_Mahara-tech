@@ -9,3 +9,6 @@ function adding(a,b){
 
 var result = adding(x, y);
 console.log(result)
+
+
+console.log(window)
